@@ -32,9 +32,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   800" rel="stylesheet">
 </head>
 
+<body>
+
+
+	<!-- top-header -->
+
 
 <!-- js-files -->
 <!-- jquery -->
+
+	</body>
 <script src="../js/jquery-2.1.4.min.js"></script>
 <!-- //jquery -->
 
@@ -201,6 +208,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //js-files -->
 
 
-</body>
+
+
 
 </html>

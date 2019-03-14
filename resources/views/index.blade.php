@@ -1,99 +1,29 @@
 
 @extends('includes.design')
-
-<body>
-	<!-- top-header -->
-	<div class="header-most-top">
-		<p>Grocery Offer Zone Top Deals & Discounts</p>
-	</div>
-	<!-- //top-header -->
-	<!-- header-bot-->
-	<div class="header-bot">
-		<div class="header-bot_inner_wthreeinfo_header_mid">
-			<!-- header-bot-->
-			<div class="col-md-4 logo_agile">
-				<h1>
-					<a href="index.html">
-						<span>G</span>rocery
-						<span>S</span>hoppy
-						<img src="images/logo2.png" alt=" ">
-					</a>
-				</h1>
-			</div>
-			<!-- header-bot -->
-			<div class="col-md-8 header">
-				<!-- header lists -->
-				<ul>
-					<li>
-						<a class="play-icon popup-with-zoom-anim" href="#small-dialog1">
-							<span class="fa fa-map-marker" aria-hidden="true"></span> Shop Locator</a>
-					</li>
-					<li>
-						<a href="#" data-toggle="modal" data-target="#myModal1">
-							<span class="fa fa-truck" aria-hidden="true"></span>Track Order</a>
-					</li>
-					<li>
-						<span class="fa fa-phone" aria-hidden="true"></span> 001 234 5678
-					</li>
-					<li>
-						<a href="#" data-toggle="modal" data-target="#myModal1">
-							<span class="fa fa-unlock-alt" aria-hidden="true"></span> Sign In </a>
-					</li>
-					<li>
-						<a href="#" data-toggle="modal" data-target="#myModal2">
-							<span class="fa fa-pencil-square-o" aria-hidden="true"></span> Sign Up </a>
-					</li>
-				</ul>
-				<!-- //header lists -->
-				<!-- search -->
-				<div class="agileits_search">
-					<form action="#" method="post">
-						<input name="Search" type="search" placeholder="How can we help you today?" required="">
-						<button type="submit" class="btn btn-default" aria-label="Left Align">
-							<span class="fa fa-search" aria-hidden="true"> </span>
-						</button>
-					</form>
-				</div>
-				<!-- //search -->
-				<!-- cart details -->
-				<div class="top_nav_right">
-					<div class="wthreecartaits wthreecartaits2 cart cart box_1">
-						<form action="#" method="post" class="last">
-							<input type="hidden" name="cmd" value="_cart">
-							<input type="hidden" name="display" value="1">
-							<button class="w3view-cart" type="submit" name="submit" value="">
-								<i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
-							</button>
-						</form>
-					</div>
-				</div>
-				<!-- //cart details -->
-				<div class="clearfix"></div>
-			</div>
-			<div class="clearfix"></div>
-		</div>
-
-	</div>
+<!-- top-header -->
+@include('includes.topHeader')
+<!--- end of TopHeade--->
 	@extends('includes.shopLocator')
 
-	<!-- shop locator (popup) -->
-	<!-- Button trigger modal(shop-locator) -->
+<!-- shop locator (popup) -->
+<!-- Button trigger modal(shop-locator) -->
 
-	<!-- //shop locator (popup) -->
-	<!-- signin Model -->
-	<!-- Modal1 -->
+<!-- //shop locator (popup) -->
+<!-- signin Model -->
+<!-- Modal1 -->
 <!---- Sign in and sign up---->
 @extends('includes.signInFun')
 <!--- Endof sign in and up----->
-			<!-- //Modal content-->
+		<!-- //Modal content-->
 
-	<!-- //Modal2 -->
-	<!-- //signup Model -->
-	<!-- //header-bot -->
-	<!-- navigation -->
-	@include('includes.navBar')
-	<!-- //navigation -->
-	<!-- banner -->
+<!-- //Modal2 -->
+<!-- //signup Model -->
+<!-- //header-bot -->
+<!-- navigation -->
+@include('includes.navBar')
+<!-- //navigation -->
+<!-- banner -->
+
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		<!-- Indicators-->
 		<ol class="carousel-indicators">
