@@ -92,7 +92,42 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   });
 </script>
 <!-- //cart-js -->
+<!-- password-script -->
+<script>
+	window.onload = function () {
+		document.getElementById("password1").onchange = validatePassword;
+		document.getElementById("password2").onchange = validatePassword;
+	}
 
+	function validatePassword() {
+		var pass2 = document.getElementById("password2").value;
+		var pass1 = document.getElementById("password1").value;
+		if (pass1 != pass2)
+			document.getElementById("password2").setCustomValidity("Passwords Don't Match");
+		else
+			document.getElementById("password2").setCustomValidity('');
+		//empty string means no validation error
+	}
+</script>
+<!-- //password-script -->
+<!-- smoothscroll -->
+<script src="../js/SmoothScroll.min.js"></script>
+<!-- //smoothscroll -->
+<!-- start-smooth-scrolling -->
+<script src="../js/move-top.js"></script>
+<script src="../js/easing.js"></script>
+<script>
+	jQuery(document).ready(function ($) {
+		$(".scroll").click(function (event) {
+			event.preventDefault();
+
+			$('html,body').animate({
+				scrollTop: $(this.hash).offset().top
+			}, 1000);
+		});
+	});
+</script>
+<!-- //end-smooth-scrolling -->
 <!-- price range (top products) -->
 <script src="../js/jquery-ui.js"></script>
 <script>
@@ -110,6 +145,39 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     $("#amount").val("$" + $("#slider-range").slider("values", 0) + " - $" + $("#slider-range").slider("values", 1));
 
   }); //]]>
+</script>
+<!-- smooth-scrolling-of-move-up -->
+<script>
+	$(document).ready(function () {
+		/*
+		var defaults = {
+			containerID: 'toTop', // fading element id
+			containerHoverID: 'toTopHover', // fading element hover id
+			scrollSpeed: 1200,
+			easingType: 'linear'
+		};
+		*/
+		$().UItoTop({
+			easingType: 'easeOutQuart'
+		});
+
+	});
+</script>
+<!-- //smooth-scrolling-of-move-up -->
+<!-- imagezoom -->
+<script src="js/imagezoom.js"></script>
+<!-- //imagezoom -->
+
+<!-- FlexSlider -->
+<script src="js/jquery.flexslider.js"></script>
+<script>
+	// Can also be used with $(document).ready()
+	$(window).load(function () {
+		$('.flexslider').flexslider({
+			animation: "slide",
+			controlNav: "thumbnails"
+		});
+	});
 </script>
 <!-- //price range (top products) -->
 
@@ -183,32 +251,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </script>
 <!-- //end-smooth-scrolling -->
 
-<!-- smooth-scrolling-of-move-up -->
-<script>
-  $(document).ready(function () {
-    /*
-    var defaults = {
-      containerID: 'toTop', // fading element id
-      containerHoverID: 'toTopHover', // fading element hover id
-      scrollSpeed: 1200,
-      easingType: 'linear'
-    };
-    */
-    $().UItoTop({
-      easingType: 'easeOutQuart'
-    });
-
-  });
-</script>
-<!-- //smooth-scrolling-of-move-up -->
 
 <!-- for bootstrap working -->
 <script src="../js/bootstrap.js"></script>
 <!-- //for bootstrap working -->
 <!-- //js-files -->
 
-
-
-
-
+</body>
 </html>

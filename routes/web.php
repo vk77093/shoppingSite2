@@ -35,3 +35,27 @@ Route::get('/help',function(){
 Route::get('/payments',function(){
   return view('payments');
 });
+Route::get('/privacy',function(){
+  return view('privacy');
+});
+Route::get('/product',function(){
+  return view('product');
+});
+Route::get('/product2',function(){
+  return view('product2');
+});
+Route::get('/single',function(){
+  return view('single');
+});
+Route::get('/single2',function(){
+  return view('single2');
+});
+Route::get('/terms',function(){
+  return view('terms');
+});
+Route::get('/typography',function(){
+  return view('typography');
+});
+Route::get('/icons',function(){
+  return view('icons');
+});
