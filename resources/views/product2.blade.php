@@ -232,7 +232,7 @@
 						</div>
 						<div class="col-xs-8 img-deal1">
 							<h3>Lay's Potato Chips</h3>
-							<a href="">$18.00</a>
+							<a href="">&#x20B9;18.00</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -242,7 +242,7 @@
 						</div>
 						<div class="col-xs-8 img-deal1">
 							<h3>Bingo Mad Angles</h3>
-							<a href="">$9.00</a>
+							<a href="">&#x20B9;9.00</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -252,7 +252,7 @@
 						</div>
 						<div class="col-xs-8 img-deal1">
 							<h3>Tata Salt</h3>
-							<a href="">$15.00</a>
+							<a href="">&#x20B9;15.00</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -262,7 +262,7 @@
 						</div>
 						<div class="col-xs-8 img-deal1">
 							<h3>Gujarat Dry Fruit</h3>
-							<a href="">$525.00</a>
+							<a href="">&#x20B9;525.00</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -272,7 +272,7 @@
 						</div>
 						<div class="col-xs-8 img-deal1">
 							<h3>Cadbury Dairy Milk</h3>
-							<a href="">$149.00</a>
+							<a href="">&#x20B9;149.00</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -301,8 +301,8 @@
 										<a href="single2.html">Vim Dishwash Gel</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$99.00</span>
-										<del>$120.00</del>
+										<span class="item_price">&#x20B9;99.00</span>
+										<del>&#x20B9;120.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -340,8 +340,8 @@
 										<a href="single2.html">Harpic Cleaner</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$134.00</span>
-										<del>$150.00</del>
+										<span class="item_price">&#x20B9;134.00</span>
+										<del>&#x20B9;150.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -381,7 +381,7 @@
 									</h4>
 									<div class="info-product-price">
 										<span class="item_price">306.85</span>
-										<del>$450.00</del>
+										<del>&#x20B9;450.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -423,8 +423,8 @@
 										<a href="single2.html">Odonil Blocks (3+1)</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$141.00</span>
-										<del>$160.00</del>
+										<span class="item_price">&#x20B9;141.00</span>
+										<del>&#x20B9;160.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -463,8 +463,8 @@
 										<a href="single2.html">Surf Excel Detergent</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$337.00</span>
-										<del>$380.00</del>
+										<span class="item_price">&#x20B9;337.00</span>
+										<del>&#x20B9;380.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -502,8 +502,8 @@
 										<a href="single2.html">Sunsilk Shampoo</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$294.50</span>
-										<del>$325.00</del>
+										<span class="item_price">&#x20B9;294.50</span>
+										<del>&#x20B9;325.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -547,8 +547,8 @@
 										<a href="single2.html">Gala Leader Floor Mop</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$149.00</span>
-										<del>$180.00</del>
+										<span class="item_price">&#x20B9;149.00</span>
+										<del>&#x20B9;180.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -585,8 +585,8 @@
 										<a href="single2.html">Spotzero Spin Mop</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$888.00</span>
-										<del>$999.00</del>
+										<span class="item_price">&#x20B9;888.00</span>
+										<del>&#x20B9;999.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -625,8 +625,8 @@
 										<a href="single2.html">Spotzero Zero Dust</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$139.00</span>
-										<del>$150.00</del>
+										<span class="item_price">&#x20B9;139.00</span>
+										<del>&#x20B9;150.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -668,8 +668,8 @@
 										<a href="single2.html">All Out 480 Hours</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$89.00</span>
-										<del>$120.00</del>
+										<span class="item_price">&#x20B9;89.00</span>
+										<del>&#x20B9;120.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -708,8 +708,8 @@
 										<a href="single2.html">Wall Hanging</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$349.00</span>
-										<del>$400.00</del>
+										<span class="item_price">&#x20B9;349.00</span>
+										<del>&#x20B9;400.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -747,8 +747,8 @@
 										<a href="single2.html">Colin Regular Refill</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$155.00</span>
-										<del>$180.00</del>
+										<span class="item_price">&#x20B9;155.00</span>
+										<del>&#x20B9;180.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -806,8 +806,8 @@
 									<a href="single.html">Aashirvaad, 5g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$220.00</h6>
-									<p>Save $40.00</p>
+									<h6>&#x20B9;220.00</h6>
+									<p>Save &#x20B9;40.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -840,8 +840,8 @@
 									<a href="single.html">Kissan Tomato Ketchup, 950g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$99.00</h6>
-									<p>Save $20.00</p>
+									<h6>&#x20B9;99.00</h6>
+									<p>Save &#x20B9;20.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -874,8 +874,8 @@
 									<a href="single.html">Madhur Pure Sugar, 1g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$69.00</h6>
-									<p>Save $20.00</p>
+									<h6>&#x20B9;69.00</h6>
+									<p>Save &#x20B9;20.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -908,8 +908,8 @@
 									<a href="single2.html">Surf Excel Liquid, 1.02L</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$187.00</h6>
-									<p>Save $30.00</p>
+									<h6>&#x20B9;187.00</h6>
+									<p>Save &#x20B9;30.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -942,8 +942,8 @@
 									<a href="single.html">Cadbury Choclairs, 655.5g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$160.00</h6>
-									<p>Save $60.00</p>
+									<h6>&#x20B9;160.00</h6>
+									<p>Save &#x20B9;60.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -976,8 +976,8 @@
 									<a href="single2.html">Fair & Lovely, 80 g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$121.60</h6>
-									<p>Save $30.00</p>
+									<h6>&#x20B9;121.60</h6>
+									<p>Save &#x20B9;30.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -1010,8 +1010,8 @@
 									<a href="single.html">Sprite, 2.25L (Pack of 2)</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$180.00</h6>
-									<p>Save $30.00</p>
+									<h6>&#x20B9;180.00</h6>
+									<p>Save &#x20B9;30.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -1044,8 +1044,8 @@
 									<a href="single2.html">Lakme Eyeconic Kajal, 0.35 g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$153.00</h6>
-									<p>Save $40.00</p>
+									<h6>&#x20B9;153.00</h6>
+									<p>Save &#x20B9;40.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">

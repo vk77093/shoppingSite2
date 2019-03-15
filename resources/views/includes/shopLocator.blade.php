@@ -1,3 +1,6 @@
+<div class="conatiner">
+
+
 <div id="small-dialog1" class="mfp-hide">
   <div class="select-city">
     <h3>Please Select Your Location</h3>
@@ -372,4 +375,5 @@
     </select>
     <div class="clearfix"></div>
   </div>
+</div>
 </div>

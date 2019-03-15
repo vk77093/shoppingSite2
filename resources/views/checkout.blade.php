@@ -72,7 +72,7 @@
 									</div>
 								</td>
 								<td class="invert">Spotzero Spin Mop</td>
-								<td class="invert">$888.00</td>
+								<td class="invert">&#x20B9;888.00</td>
 								<td class="invert">
 									<div class="rem">
 										<div class="close1"> </div>
@@ -98,7 +98,7 @@
 									</div>
 								</td>
 								<td class="invert">Fair & Lovely, 80 g</td>
-								<td class="invert">$121.60</td>
+								<td class="invert">&#x20B9;121.60</td>
 								<td class="invert">
 									<div class="rem">
 										<div class="close2"> </div>
@@ -108,7 +108,7 @@
 							<tr class="rem3">
 								<td class="invert">3</td>
 								<td class="invert-image">
-									<a href="single.html">
+									<a href="/single">
 										<img src="images/s5.jpg" alt=" " class="img-responsive">
 									</a>
 								</td>
@@ -124,7 +124,7 @@
 									</div>
 								</td>
 								<td class="invert">Sprite, 2.25L (Pack of 2)</td>
-								<td class="invert">$180.00</td>
+								<td class="invert">&#x20B9;180.00</td>
 								<td class="invert">
 									<div class="rem">
 										<div class="close3"> </div>
@@ -138,7 +138,7 @@
 			<div class="checkout-left">
 				<div class="address_form_agile">
 					<h4>Add a new Details</h4>
-					<form action="payment.html" method="post" class="creditly-card-form agileinfo_form">
+					<form action="/payment" method="post" class="creditly-card-form agileinfo_form">
 						<div class="creditly-wrapper wthree, w3_agileits_wrapper">
 							<div class="information-wrapper">
 								<div class="first-row">
@@ -176,7 +176,7 @@
 						</div>
 					</form>
 					<div class="checkout-right-basket">
-						<a href="payment.html">Make a Payment
+						<a href="/payment">Make a Payment
 							<span class="fa fa-hand-o-right" aria-hidden="true"></span>
 						</a>
 					</div>
@@ -256,12 +256,3 @@
 			});
 		});
 	</script>
-	<!--//quantity-->
-
-	<!-- password-script -->
-
-	<!-- //password-script -->
-
-	<!-- smoothscroll -->
-
-	<!-- //end-smooth-scrolling -->

@@ -41,7 +41,7 @@
 						</h3>
 						<p>Get flat
 							<span>10%</span> Cashback</p>
-						<a class="button2" href="product.html">Shop Now </a>
+						<a class="button2" href="/product">Shop Now </a>
 					</div>
 				</div>
 			</div>
@@ -53,7 +53,7 @@
 						</h3>
 						<p>Get Upto
 							<span>30%</span> Off</p>
-						<a class="button2" href="product.html">Shop Now </a>
+						<a class="button2" href="/product">Shop Now </a>
 					</div>
 				</div>
 			</div>
@@ -66,7 +66,7 @@
 						<p>Get Best Offer Upto
 							<span>20%</span>
 						</p>
-						<a class="button2" href="product.html">Shop Now </a>
+						<a class="button2" href="/product">Shop Now </a>
 					</div>
 				</div>
 			</div>
@@ -78,7 +78,7 @@
 						</h3>
 						<p>Get Now
 							<span>40%</span> Discount</p>
-						<a class="button2" href="product.html">Shop Now </a>
+						<a class="button2" href="/product">Shop Now </a>
 					</div>
 				</div>
 			</div>
@@ -326,7 +326,7 @@
 						</div>
 						<div class="col-xs-8 img-deal1">
 							<h3>Cadbury Dairy Milk</h3>
-							<a href="single.html">$149.00</a>
+							<a href="single.html">&#x20B9;149.00</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -385,7 +385,7 @@
 									<img src="images/m2.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/single" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 									<span class="product-new-top">New</span>
@@ -393,7 +393,7 @@
 								</div>
 								<div class="item-info-product ">
 									<h4>
-										<a href="single.html">Cashew Nuts, 100g</a>
+										<a href="/single">Cashew Nuts, 100g</a>
 									</h4>
 									<div class="info-product-price">
 										<span class="item_price">&#x20B9;200.00</span>
@@ -425,7 +425,7 @@
 									<img src="images/m3.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/single" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 									<span class="product-new-top">New</span>
@@ -433,11 +433,11 @@
 								</div>
 								<div class="item-info-product ">
 									<h4>
-										<a href="single.html">Pista..., 250g</a>
+										<a href="/single">Pista..., 250g</a>
 									</h4>
 									<div class="info-product-price">
 										<span class="item_price">&#x20B9;520.99</span>
-										<del>$600.99</del>
+										<del>&#x20B9;600.99</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -485,18 +485,18 @@
 									<img src="images/mk4.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/ssingle" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 									<span class="product-new-top">New</span>
 								</div>
 								<div class="item-info-product ">
 									<h4>
-										<a href="single.html">Freedom Oil, 1L</a>
+										<a href="/single">Freedom Oil, 1L</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$78.00</span>
-										<del>$110.00</del>
+										<span class="item_price">&#x20B9;78.00</span>
+										<del>&#x20B9;110.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -524,7 +524,7 @@
 									<img src="images/mk5.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/single" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 									<span class="product-new-top">New</span>
@@ -532,11 +532,11 @@
 								</div>
 								<div class="item-info-product ">
 									<h4>
-										<a href="single.html">Saffola Gold, 1L</a>
+										<a href="/single">Saffola Gold, 1L</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$130.00</span>
-										<del>$150.00</del>
+										<span class="item_price">&#x20B9;130.00</span>
+										<del>&#x20B9;150.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -564,7 +564,7 @@
 									<img src="images/mk6.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/single" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 									<span class="product-new-top">New</span>
@@ -572,11 +572,11 @@
 								</div>
 								<div class="item-info-product ">
 									<h4>
-										<a href="single.html">Fortune Oil, 5L</a>
+										<a href="/single">Fortune Oil, 5L</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$399.99</span>
-										<del>$500.00</del>
+										<span class="item_price">&#x20B9;399.99</span>
+										<del>&#x20B9;500.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -610,17 +610,17 @@
 									<img src="images/mk7.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/single" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 								</div>
 								<div class="item-info-product ">
 									<h4>
-										<a href="single.html">Yippee Noodles, 65g</a>
+										<a href="/single">Yippee Noodles, 65g</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$15.00</span>
-										<del>$25.00</del>
+										<span class="item_price">&#x20B9;15.00</span>
+										<del>&#x20B9;25.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -648,7 +648,7 @@
 									<img src="images/mk8.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/single" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 									<span class="product-new-top">New</span>
@@ -656,11 +656,11 @@
 								</div>
 								<div class="item-info-product ">
 									<h4>
-										<a href="single.html">Wheat Pasta, 500g</a>
+										<a href="/single">Wheat Pasta, 500g</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$98.00</span>
-										<del>$120.00</del>
+										<span class="item_price">&#x20B9;98.00</span>
+										<del>&#x20B9;120.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -688,7 +688,7 @@
 									<img src="images/mk9.jpg" alt="">
 									<div class="men-cart-pro">
 										<div class="inner-men-cart-pro">
-											<a href="single.html" class="link-product-add-cart">Quick View</a>
+											<a href="/single" class="link-product-add-cart">Quick View</a>
 										</div>
 									</div>
 									<span class="product-new-top">New</span>
@@ -699,8 +699,8 @@
 										<a href="single.html">Chinese Noodles, 68g</a>
 									</h4>
 									<div class="info-product-price">
-										<span class="item_price">$11.99</span>
-										<del>$15.00</del>
+										<span class="item_price">&#x20B9;11.99</span>
+										<del>&#x20B9;15.00</del>
 									</div>
 									<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 										<form action="#" method="post">
@@ -961,8 +961,8 @@
 									<a href="single.html">Sprite, 2.25L (Pack of 2)</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$180.00</h6>
-									<p>Save $30.00</p>
+									<h6>&#x20B9;180.00</h6>
+									<p>Save &#x20B9;30.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">

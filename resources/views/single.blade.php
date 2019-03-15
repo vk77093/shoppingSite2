@@ -91,8 +91,8 @@
 					</span>
 				</div>
 				<p>
-					<span class="item_price">$950.00</span>
-					<del>$1300.00</del>
+					<span class="item_price">&#x20B9;950.00</span>
+					<del>&#x20B9;1300.00</del>
 					<label>Free delivery</label>
 				</p>
 				<div class="single-infoagile">
@@ -108,7 +108,7 @@
 						</li>
 						<li>
 							1 offer from
-							<span class="item_price">$950.00</span>
+							<span class="item_price">&#x20B9;950.00</span>
 						</li>
 					</ul>
 				</div>
@@ -186,8 +186,8 @@
 									<a href="single.html">Aashirvaad, 5g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$220.00</h6>
-									<p>Save $40.00</p>
+									<h6>&#x20B9;220.00</h6>
+									<p>Save &#x20B9;40.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -220,8 +220,8 @@
 									<a href="single.html">Kissan Tomato Ketchup, 950g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$99.00</h6>
-									<p>Save $20.00</p>
+									<h6>&#x20B9;99.00</h6>
+									<p>Save &#x20B9;20.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -254,8 +254,8 @@
 									<a href="single.html">Madhur Pure Sugar, 1g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$69.00</h6>
-									<p>Save $20.00</p>
+									<h6>&#x20B9;69.00</h6>
+									<p>Save &#x20B9;20.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -288,8 +288,8 @@
 									<a href="single2.html">Surf Excel Liquid, 1.02L</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$187.00</h6>
-									<p>Save $30.00</p>
+									<h6>&#x20B9;187.00</h6>
+									<p>Save &#x20B9;30.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -322,8 +322,8 @@
 									<a href="single.html">Cadbury Choclairs, 655.5g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$160.00</h6>
-									<p>Save $60.00</p>
+									<h6>&#x20B9;160.00</h6>
+									<p>Save &#x20B9;60.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -356,8 +356,8 @@
 									<a href="single2.html">Fair & Lovely, 80 g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$121.60</h6>
-									<p>Save $30.00</p>
+									<h6>&#x20B9;121.60</h6>
+									<p>Save &#x20B9;30.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -390,8 +390,8 @@
 									<a href="single.html">Sprite, 2.25L (Pack of 2)</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$180.00</h6>
-									<p>Save $30.00</p>
+									<h6>&#x20B9;180.00</h6>
+									<p>Save &#x20B9;30.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
@@ -424,8 +424,8 @@
 									<a href="single2.html">Lakme Eyeconic Kajal, 0.35 g</a>
 								</h4>
 								<div class="w3l-pricehkj">
-									<h6>$153.00</h6>
-									<p>Save $40.00</p>
+									<h6>&#x20B9;153.00</h6>
+									<p>Save &#x20B9;40.00</p>
 								</div>
 								<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 									<form action="#" method="post">
